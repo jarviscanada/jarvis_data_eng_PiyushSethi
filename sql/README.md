@@ -52,5 +52,5 @@ DELETE FROM cd.bookings
 DELETE FROM cd.members
 WHERE memid=37;
 ```
-# Rest of the Queries could be found in queries.sql
+### Rest of the Queries could be found in queries.sql
  
