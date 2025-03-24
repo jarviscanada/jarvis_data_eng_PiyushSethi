@@ -1,0 +1,7 @@
+db-class:org.postgresql.Driver
+server:host.docker.internal
+database:stock_quote
+port:5432
+username:postgres
+password:password
+api-key:0663c3ccf5mshcc8e09c1439bb25p19cd67jsnaa913948a975
