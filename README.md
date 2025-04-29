@@ -29,6 +29,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 **Network Infrastructure Design**: Designed and simulated network infrastructures, including routing and switch configurations, using Cisco Packet Tracer. Demonstrated understanding of network protocols (TCP/IP, HTTP) and implemented secure, scalable topologies.
 
+**CSOC Design Plan (Capstone Project)**: Planned and designed a Cyber Security Operations Center (CSOC) in a 4 member team to monitor, detect, and respond to security incidents. The project included identifying security requirements, designing a layered defense architecture, specifying logging and alert systems, and drafting incident response procedures. Demonstrated understanding of SIEM tools, network segmentation, and real-world threat mitigation strategies.
+
 
 ## Professional Experiences
 
