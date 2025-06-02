@@ -1,15 +1,15 @@
 # Piyush Sethi . Jarvis Consulting
 
-A Software Developer at Jarvis Consulting Group with an Advanced Diploma in Computer Systems Technology from George Brown College. I have hands-on experience in Java, Python, JDBC, REST APIs, Docker, and PostgreSQL. At CIBC, I developed a C# utility to validate file updates and coordinated ATM testing between QA and development teams. I'm passionate about creating impactful software, solving real-world problems, and continuously learning in fast-paced, collaborative environments.
+A Software Developer at Jarvis Consulting Group with an Advanced Diploma in Computer Systems Technology from George Brown College. I have hands-on experience in Java, Python, JDBC, REST APIs, Docker, and SQL. At CIBC, I developed a C# utility to validate file updates and coordinated ATM testing between QA and development teams. I'm passionate about creating impactful software, solving real-world problems, and continuously learning in fast-paced, collaborative environments.
 
 
 ## Skills
 
 **Proficient:** Java, Linux/Bash, SQL (PostgreSQL), Git, Agile/Scrum
 
-**Competent:** Python, JDBC, REST APIs, Docker, AWS, VMware, Active Directory/Domain Services
+**Competent:** Python, JDBC, REST APIs, Docker, AWS, JavaScript, Active Directory/Domain Services
 
-**Familiar:** C#, JavaScript, React, HTML/CSS, Cisco Networking (CCNA Level)
+**Familiar:** C#, DataBricks, React, HTML/CSS, Cisco Networking (CCNA Level), PySpark
 
 
 ## Jarvis Projects
@@ -22,6 +22,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 **Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/grep)]: Created a Java-based utility replicating the Unix grep command. Used Java I/O, regex, and streams to efficiently search text files and write output to disk. The application was packaged with Maven and containerized for deployment and supports processing large files by leverages Java Streams for optimized performance.
 
 **StockQuote App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/jdbc)]: Developed a command-line stock portfolio manager that integrates with the Alpha Vantage API to fetch real-time stock data. Users can view holdings, and execute buy/sell transactions. The application uses PostgreSQL for data persistence, JDBC for database connectivity, and Log4j for logging. It follows a modular architecture and implements the DAO pattern to separate business logic from data access.
+
+**Python Data Analytics – Customer Segmentation PoC** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/main/python_data_analytics)]: Developed a data analytics proof of concept (PoC) for London Gift Shop (LGS), a UK-based e-commerce retailer, to improve customer engagement through targeted marketing strategies. Leveraged Python, Pandas, NumPy, and SQL to perform RFM (Recency, Frequency, Monetary) analysis on historical transaction data. Cleaned and transformed sales data in Jupyter Notebook to identify key customer segments such as Champions, At-Risk, and New Customers. Delivered actionable insights to support loyalty programs, re-engagement efforts, and personalized promotions. Proposed future enhancements including a real-time ETL pipeline, interactive dashboards using Streamlit, and advanced customer segmentation through clustering techniques.
 
 
 ## Highlighted Projects
