@@ -1,16 +1,14 @@
 # Piyush Sethi . Jarvis Consulting
 
-A Software Developer at Jarvis Consulting Group with an Advanced Diploma in Computer Systems Technology from George Brown College. I have hands-on experience in Java, Python, JDBC, REST APIs, React, and SQL. At CIBC, I developed a C# utility to validate file updates and coordinated ATM testing between QA and development teams. I’m passionate about designing shared components, maintaining code standards, supporting development pipelines, and delivering value through reusable, tested, and scalable solutions.
-
+A Software Developer at Jarvis Consulting Group, I hold an Advanced Diploma in Computer Systems Technology from George Brown College. I have developed and deployed applications using Java, React, C#, Python, and PostgreSQL, and contributed to the development of shared components integrated with RESTful APIs, Docker containers, and cloud-native, SQL-based architectures. At CIBC, I engineered a custom C# utility to automate file validation and supported ATM software testing workflows by facilitating communication between QA and development teams. I’m driven by a passion for building scalable, reusable, and cloud-ready solutions that align with modern software engineering practices and accelerate delivery.
 
 ## Skills
 
-**Proficient:** Java, SQL, React, Agile/Scrum, REST APIs, OOP (Object-Oriented Programming)
+**Proficient:** Java, React, Docker, RDBMS/SQL, Agile/Scrum, Python, Linux/Bash
 
-**Competent:** Python, C#, HTML/CSS, Docker, AWS, JavaScript
+**Competent:** C#, Git, REST APIs, HTML/CSS, JDBC, AWS
 
-**Familiar:** JDBC, DataBricks, Git, Cisco Networking (CCNA Level), Linux/Bash
-
+**Familiar:** DataBricks, PySpark, Cisco Networking, AD/DS, Splunk
 
 ## Jarvis Projects
 
@@ -19,15 +17,15 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/linux_sql)]: Built a scalable Linux-based system to monitor cluster health and resource usage in real time. Collected and stored data in PostgreSQL using Bash scripts and cron jobs. Containerized the database using Docker, Git for version control and SQL for generating usage reports. Cron was employed to automate the periodic collection of resource usage data. The solution was designed to run on multiple nodes within a Linux-based cluster, offering scalability and flexibility for large-scale monitoring.
 
-**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/grep)]: Created a Java-based utility replicating the Unix grep command. Used Java I/O, regex, and streams to efficiently search text files and write output to disk. The application was packaged with Maven and containerized for deployment and supports processing large files by leverages Java Streams for optimized performance.
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/grep)]: Implemented a text search utility similar to the Unix grep command. The application processes input files, searches for specified patterns using Java Regular Expressions (Regex APIs), and writes matching lines to an output file. Built using Core Java, the application utilizes Java I/O APIs (BufferedReader, BufferedWriter) for efficient file handling. Maven was used for project dependency management, and the app was containerized using Docker to enable easy deployment and portability. The application supports processing large files and leverages Java Streams for optimized performance.
 
 **StockQuote App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/jdbc)]: Developed a command-line stock portfolio manager that integrates with the Alpha Vantage API to fetch real-time stock data. Users can view holdings, and execute buy/sell transactions. The application uses PostgreSQL for data persistence, JDBC for database connectivity, and Log4j for logging. It follows a modular architecture and implements the DAO pattern to separate business logic from data access.
 
-**Python Data Analytics – Customer Segmentation PoC** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/main/python_data_analytics)]: Developed a data analytics proof of concept (PoC) for London Gift Shop (LGS), a UK-based e-commerce retailer, to improve customer engagement through targeted marketing strategies. Leveraged Python, Pandas, NumPy, and SQL to perform RFM (Recency, Frequency, Monetary) analysis on historical transaction data. Cleaned and transformed sales data in Jupyter Notebook to identify key customer segments such as Champions, At-Risk, and New Customers. Delivered actionable insights to support loyalty programs, re-engagement efforts, and personalized promotions. Proposed future enhancements including a real-time ETL pipeline, interactive dashboards using Streamlit, and advanced customer segmentation through clustering techniques.
+**Python Data Analytics – Customer Segmentation PoC** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/python_data_analytics)]: Developed and executed SQL queries using PostgreSQL to enhance database management skills. Focused on data manipulation, joins, and query optimization, while ensuring best practices for database integrity.
 
 
 ## Highlighted Projects
-**Crown Clothing Web App** [[Website](https://wondrous-lily-901026.netlify.app/)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
+**Crown Clothing Web App** [[GitHub](https://wondrous-lily-901026.netlify.app/)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
 
 **Network Infrastructure Design**: Designed and simulated network infrastructures, including routing and switch configurations, using Cisco Packet Tracer. Demonstrated understanding of network protocols (TCP/IP, HTTP) and implemented secure, scalable topologies.
 
