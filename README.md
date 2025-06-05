@@ -15,7 +15,7 @@ A Software Developer at Jarvis Consulting Group, I hold an Advanced Diploma in C
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/linux_sql)]: Designed a system for monitoring cluster health and resource usage in real-time. Utilized Linux shell scripts to collect hardware specifications and real-time system resource usage data. The data is inserted into a PostgreSQL database for storage and analysis. Additionally, SQL queries are used to retrieve and generate reports based on the collected data. The system also leverages Docker for containerizing the PostgreSQL database, making it easy to deploy and scale the monitoring system. Git was used for version control, and Cron was employed to automate the periodic collection of resource usage data. The solution was designed to run on multiple nodes within a Linux-based cluster, offering scalability and flexibility for large-scale monitoring.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/linux_sql)]: Built a scalable Linux-based system to monitor cluster health and resource usage in real time. Collected and stored data in PostgreSQL using Bash scripts and cron jobs. Containerized the database using Docker, Git for version control and SQL for generating usage reports. Cron was employed to automate the periodic collection of resource usage data. The solution was designed to run on multiple nodes within a Linux-based cluster, offering scalability and flexibility for large-scale monitoring.
 
 **Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/grep)]: Implemented a text search utility similar to the Unix grep command. The application processes input files, searches for specified patterns using Java Regular Expressions (Regex APIs), and writes matching lines to an output file. Built using Core Java, the application utilizes Java I/O APIs (BufferedReader, BufferedWriter) for efficient file handling. Maven was used for project dependency management, and the app was containerized using Docker to enable easy deployment and portability. The application supports processing large files and leverages Java Streams for optimized performance.
 
@@ -34,9 +34,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2024-present)**: Designed and developed scalable software solutions at Jarvis Consulting Group, utilizing technologies such as Java, Docker, and PostgreSQL. Implemented a Java-based application mimicking the Unix grep command to enable efficient file searches using regular expressions. Managed remote system access using Google Cloud Platform (GCP) and Virtual Network Computing (VNC). Streamlined development and deployment processes by containerizing environments with Docker. Collaborated within a team to deliver robust solutions, demonstrating proficiency in problem-solving and continuous learning in a dynamic work environment.
+**Software Developer, Jarvis (2024-present)**: Delivering backend solutions using Java, Docker, and PostgreSQL. Worked on applications like a grep utility and stock portfolio manager. Managed containerized environments, integrated GCP/VNC for remote access, and proactively contributed to team discussions and code reviews.
 
-**Application Developer, CIBC (2023)**: Contributed to the Simplii Fortnite Rebrand project during my internship at CIBC, completing in November 2023. Responsibilities included regression testing, creating and managing comprehensive documentation, and coordinating with QA teams to ensure smooth project delivery. Focused on improving the quality and consistency of front-end ATM application updates.
+**Application Developer, CIBC (2023)**: Assisted front-end ATM software updates during the Simplii Financial rebrand project(Nov,2023). Responsibilities included regression testing, creating and delivering comprehensive documentation, and coordinating with QA teams to ensure smooth project delivery. Focused on improving the quality and consistency of front-end ATM application updates.
 
 
 ## Education
@@ -46,7 +46,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 
 ## Miscellaneous
-- CCNA 1 and 2 (2023)
+- Cisco Certified Network Associate 1 and 2 (2023)
 - Passionate about playing soccer, tennis, and badminton, enjoying friendly competition and team sports
 - Enjoy watching basketball, keeping up with the latest games and teams
-- Appreciate a wide variety of music genres
+- Appreciate a wide variety of music genres like hip-hop, R&B, Alternative
