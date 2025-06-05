@@ -1,15 +1,15 @@
 # Piyush Sethi . Jarvis Consulting
 
-A Software Developer at Jarvis Consulting Group with an Advanced Diploma in Computer Systems Technology from George Brown College. I have hands-on experience in Java, Python, JDBC, REST APIs, Docker, and SQL. At CIBC, I developed a C# utility to validate file updates and coordinated ATM testing between QA and development teams. I'm passionate about creating impactful software, solving real-world problems, and continuously learning in fast-paced, collaborative environments.
+A Software Developer at Jarvis Consulting Group with an Advanced Diploma in Computer Systems Technology from George Brown College. I have hands-on experience in Java, Python, JDBC, REST APIs, React, and SQL. At CIBC, I developed a C# utility to validate file updates and coordinated ATM testing between QA and development teams. I’m passionate about designing shared components, maintaining code standards, supporting development pipelines, and delivering value through reusable, tested, and scalable solutions.
 
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, SQL (PostgreSQL), Git, Agile/Scrum
+**Proficient:** Java, SQL, React, Agile/Scrum, REST APIs, OOP (Object-Oriented Programming)
 
-**Competent:** Python, JDBC, REST APIs, Docker, AWS, JavaScript, Active Directory/Domain Services
+**Competent:** Python, C#, HTML/CSS, Docker, AWS, JavaScript
 
-**Familiar:** C#, DataBricks, React, HTML/CSS, Cisco Networking (CCNA Level), PySpark
+**Familiar:** JDBC, DataBricks, Git, Cisco Networking (CCNA Level), Linux/Bash
 
 
 ## Jarvis Projects
@@ -27,7 +27,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 
 ## Highlighted Projects
-**Crown Clothing Web App** [[GitHub](https://github.com/Piyush-3350/crwn-clothing-v2)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
+**Crown Clothing Web App** [[Website](https://wondrous-lily-901026.netlify.app/)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
 
 **Network Infrastructure Design**: Designed and simulated network infrastructures, including routing and switch configurations, using Cisco Packet Tracer. Demonstrated understanding of network protocols (TCP/IP, HTTP) and implemented secure, scalable topologies.
 
@@ -38,7 +38,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 **Software Developer, Jarvis (2024-present)**: Delivering backend solutions using Java, Docker, and PostgreSQL. Worked on applications like a grep utility and stock portfolio manager. Managed containerized environments, integrated GCP/VNC for remote access, and proactively contributed to team discussions and code reviews.
 
-**Application Developer, CIBC (2023)**: Assisted front-end ATM software updates during the Simplii Financial rebrand project(Nov). Responsibilities included regression testing, creating and delivering comprehensive documentation, and coordinating with QA teams to ensure smooth project delivery. Focused on improving the quality and consistency of front-end ATM application updates.
+**Application Developer, CIBC (2023)**: Assisted front-end ATM software updates during the Simplii Financial rebrand project(Nov,2023). Responsibilities included regression testing, creating and delivering comprehensive documentation, and coordinating with QA teams to ensure smooth project delivery. Focused on improving the quality and consistency of front-end ATM application updates.
 
 
 ## Education
