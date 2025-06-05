@@ -46,7 +46,7 @@ jarvis_projects:
     git_url: "/core_java/grep"
     description: "Implemented a text search utility similar to the Unix grep command. The application processes input files, searches for specified patterns using Java Regular Expressions (Regex APIs), and writes matching lines to an output file. Built using Core Java, the application utilizes Java I/O APIs (BufferedReader, BufferedWriter) for efficient file handling. Maven was used for project dependency management, and the app was containerized using Docker to enable easy deployment and portability. The application supports processing large files and leverages Java Streams for optimized performance."
   - name: "StockQuote App"
-    git_url:"/core_java/jdbc"
+    git_url: "/core_java/jdbc"
     description: "Developed a command-line stock portfolio manager that integrates with the Alpha Vantage API to fetch real-time stock data. Users can view holdings, and execute buy/sell transactions. The application uses PostgreSQL for data persistence, JDBC for database connectivity, and Log4j for logging. It follows a modular architecture and implements the DAO pattern to separate business logic from data access."
   - name: "Python Data Analytics – Customer Segmentation PoC"
     git_url: "/python_data_analytics"
@@ -58,7 +58,7 @@ highlighted_projects:
     #project name
   - name: "Crown Clothing Web App"
     #URL is optional
-    url: "https://wondrous-lily-901026.netlify.app/"
+    git_url: "https://wondrous-lily-901026.netlify.app/"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
   - name: "Network Infrastructure Design"

@@ -1,14 +1,14 @@
 # Piyush Sethi . Jarvis Consulting
 
-A recent graduate with an Advanced Diploma in Computer Systems Technology from George Brown College and currently work as a Software Developer at Jarvis Consulting Group. During my academic journey, I gained hands-on experience with technologies like Java, Python, Docker, and PostgreSQL. During my internship at CIBC, I worked as an Application Developer on the Front End ATM Development team. I developed a C# utility to check files before and after an update, based on inputs from a file. I also created copy decks and coordinated ATM reservations between the QA team and the development team. I am passionate about the software industry due to its constant evolution and its ability to create impactful solutions to real-world problems. I enjoy collaborating with teams to innovate, solve challenges, and continuously learn.
+A Software Developer at Jarvis Consulting Group, I hold an Advanced Diploma in Computer Systems Technology from George Brown College. I have developed and deployed real-world applications using Java, React, C#, Python, and PostgreSQL, and contributed to the development of shared components integrated with RESTful APIs, Docker containers, and cloud-native, SQL-based architectures. At CIBC, I engineered a custom C# utility to automate file validation and supported ATM software testing workflows by facilitating communication between QA and development teams. I’m driven by a passion for building scalable, reusable, and cloud-ready solutions that align with modern software engineering practices and accelerate delivery.
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Java, React, Docker, RDBMS/SQL, Agile/Scrum, Python, Linux/Bash
 
-**Competent:** Python, System Admin/AD and Domain Services, Docker, AWS, VMWare/Virtualization
+**Competent:** C#, Git, REST APIs, HTML/CSS, JDBC, AWS
 
-**Familiar:** C#, JavaScript, HTML/CSS, Cisco Networking, React
+**Familiar:** DataBricks, PySpark, Cisco Networking, AD/DS, Splunk
 
 ## Jarvis Projects
 
@@ -17,15 +17,19 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/linux_sql)]: Designed a system for monitoring cluster health and resource usage in real-time. Utilized Linux shell scripts to collect hardware specifications and real-time system resource usage data. The data is inserted into a PostgreSQL database for storage and analysis. Additionally, SQL queries are used to retrieve and generate reports based on the collected data. The system also leverages Docker for containerizing the PostgreSQL database, making it easy to deploy and scale the monitoring system. Git was used for version control, and Cron was employed to automate the periodic collection of resource usage data. The solution was designed to run on multiple nodes within a Linux-based cluster, offering scalability and flexibility for large-scale monitoring.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java)]: Grep App: Implemented a text search utility similar to the Unix grep command. The application processes input files, searches for specified patterns using Java Regular Expressions (Regex APIs), and writes matching lines to an output file. Built using Core Java, the application utilizes Java I/O APIs (BufferedReader, BufferedWriter) for efficient file handling. Maven was used for project dependency management, and the app was containerized using Docker to enable easy deployment and portability. The application supports processing large files and leverages Java Streams for optimized performance.
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/grep)]: Implemented a text search utility similar to the Unix grep command. The application processes input files, searches for specified patterns using Java Regular Expressions (Regex APIs), and writes matching lines to an output file. Built using Core Java, the application utilizes Java I/O APIs (BufferedReader, BufferedWriter) for efficient file handling. Maven was used for project dependency management, and the app was containerized using Docker to enable easy deployment and portability. The application supports processing large files and leverages Java Streams for optimized performance.
 
-**RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/sql)]: Developed and executed SQL queries using PostgreSQL to enhance database management skills. Focused on data manipulation, joins, and query optimization, while ensuring best practices for database integrity.
+**StockQuote App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/jdbc)]: Developed a command-line stock portfolio manager that integrates with the Alpha Vantage API to fetch real-time stock data. Users can view holdings, and execute buy/sell transactions. The application uses PostgreSQL for data persistence, JDBC for database connectivity, and Log4j for logging. It follows a modular architecture and implements the DAO pattern to separate business logic from data access.
+
+**Python Data Analytics – Customer Segmentation PoC** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/python_data_analytics)]: Developed and executed SQL queries using PostgreSQL to enhance database management skills. Focused on data manipulation, joins, and query optimization, while ensuring best practices for database integrity.
 
 
 ## Highlighted Projects
-**Crown Clothing Web App** [[GitHub](https://github.com/Piyush-3350/crwn-clothing-v2)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
+**Crown Clothing Web App** [[GitHub](https://wondrous-lily-901026.netlify.app/)]: Developed a full-stack e-commerce web application named Crown Clothing using React.js. The app includes features like browsing products, adding items to a shopping cart, and secure user authentication using Firebase. Integrated Stripe for processing payments and employed Redux for state management to ensure a seamless user experience.
 
 **Network Infrastructure Design**: Designed and simulated network infrastructures, including routing and switch configurations, using Cisco Packet Tracer. Demonstrated understanding of network protocols (TCP/IP, HTTP) and implemented secure, scalable topologies.
+
+**CSOC Design Plan (Capstone Project)**: Planned and designed a Cyber Security Operations Center (CSOC) in a 4 member team to monitor, detect, and respond to security incidents. The project included identifying security requirements, designing a layered defense architecture, specifying logging and alert systems, and drafting incident response procedures. Demonstrated understanding of SIEM tools, network segmentation, and real-world threat mitigation strategies.
 
 
 ## Professional Experiences
