@@ -1,1 +1,0 @@
-frontend/backend-trader-quotes/node_modules/node/bin/node filter=lfs diff=lfs merge=lfs -text
