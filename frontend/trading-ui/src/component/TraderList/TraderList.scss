@@ -1,0 +1,10 @@
+.trader-action-icons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.view-icon, .delete-icon {
+  cursor: pointer;
+  font-size: 18px;
+}
