@@ -4,11 +4,11 @@ A Software Developer at Jarvis Consulting Group, I hold an Advanced Diploma in C
 
 ## Skills
 
-**Proficient:** Java, React, Docker, RDBMS/SQL, Agile/Scrum, Python, Linux/Bash
+**Proficient:** Java, React, Docker, RDBMS/SQL, Agile/Scrum, Python, Linux/Bash, JavaScript
 
-**Competent:** C#, Git, REST APIs, HTML/CSS, JDBC, AWS
+**Competent:** C#, Git, REST APIs, HTML/CSS, JDBC, AWS, Axios
 
-**Familiar:** DataBricks, PySpark, Cisco Networking, AD/DS, Splunk
+**Familiar:** DataBricks, PySpark, Cisco Networking, AD/DS, Splunk, Alpha Vantage API
 
 ## Jarvis Projects
 
@@ -22,6 +22,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_PiyushSeth
 **StockQuote App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/core_java/jdbc)]: Developed a command-line stock portfolio manager that integrates with the Alpha Vantage API to fetch real-time stock data. Users can view holdings, and execute buy/sell transactions. The application uses PostgreSQL for data persistence, JDBC for database connectivity, and Log4j for logging. It follows a modular architecture and implements the DAO pattern to separate business logic from data access.
 
 **Python Data Analytics – Customer Segmentation PoC** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/python_data_analytics)]: Developed and executed SQL queries using PostgreSQL to enhance database management skills. Focused on data manipulation, joins, and query optimization, while ensuring best practices for database integrity.
+
+**Trading React App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_PiyushSethi/tree/master/frontend)]: Built a full-stack trading application with a React frontend and Node.js/Express backend. Implemented features for managing traders, handling account balances with deposit/withdraw functionality, and fetching real-time stock quotes via Alpha Vantage API (RapidAPI). Applied Axios for API integration, Ant Design for UI, and in-memory caching for performance optimization.
 
 
 ## Highlighted Projects
