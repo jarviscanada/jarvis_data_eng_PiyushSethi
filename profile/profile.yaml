@@ -19,6 +19,7 @@ skills:
     - Agile/Scrum
     - Python
     - Linux/Bash
+    - JavaScript
   # At least 5 skills
   competent:
     - C#
@@ -27,6 +28,7 @@ skills:
     - HTML/CSS
     - JDBC
     - AWS
+    - Axios
   # At least 5 skills
   familiar:
     - DataBricks
@@ -34,6 +36,7 @@ skills:
     - Cisco Networking
     - AD/DS
     - Splunk
+    - Alpha Vantage API
 
 # List of Jarvis projects
 jarvis_projects:
@@ -51,6 +54,9 @@ jarvis_projects:
   - name: "Python Data Analytics – Customer Segmentation PoC"
     git_url: "/python_data_analytics"
     description: "Developed and executed SQL queries using PostgreSQL to enhance database management skills. Focused on data manipulation, joins, and query optimization, while ensuring best practices for database integrity."
+  - name: "Trading React App"
+    git_url: "/frontend"
+    description: "Built a full-stack trading application with a React frontend and Node.js/Express backend. Implemented features for managing traders, handling account balances with deposit/withdraw functionality, and fetching real-time stock quotes via Alpha Vantage API (RapidAPI). Applied Axios for API integration, Ant Design for UI, and in-memory caching for performance optimization."
 
 # List of personal or academic projects
 # Feel free to add more projects
