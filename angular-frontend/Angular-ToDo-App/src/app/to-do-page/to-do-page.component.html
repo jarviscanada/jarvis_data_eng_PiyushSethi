@@ -1,0 +1,21 @@
+<!-- <p>to-do-page works!</p> -->
+ <h2>My To-Do List</h2>
+
+ <!-- <form (submit)= "$event.preventDefault(),addToDo()"> -->
+<form (submit)="$event.preventDefault(); addToDo()">
+    <input 
+    type="text"
+    [(ngModel)]="toDoInput"
+    name="toDoInput"
+    placeholder="Add a new task"
+    required
+    />
+    <button type="submit">Add</button>
+ </form>
+
+ <ul>
+    <li *ngFor="let item of toDoList; let i = index">
+    {{item}}
+    <button (click)="deleteToDo(i)">Delete</button>
+    </li>
+ </ul>

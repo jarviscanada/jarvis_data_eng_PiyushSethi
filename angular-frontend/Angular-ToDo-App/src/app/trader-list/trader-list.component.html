@@ -1,0 +1,45 @@
+<div style="padding: 16px; max-width: 1000px; margin: auto;">
+    <button mat-rasied-button color="primary" (click)="openAddTraderDialog()">Add a New Trader</button>
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+        <ng-container matColumnDef="firstName">
+            <th mat-header-cell *matHeaderCellDef> First Name</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.firstName}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="lastName">
+            <th mat-header-cell *matHeaderCellDef> Last Name</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.lastName}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="dob">
+            <th mat-header-cell *matHeaderCellDef> DOB</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.dob}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="country">
+            <th mat-header-cell *matHeaderCellDef> Country</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.country}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="email">
+            <th mat-header-cell *matHeaderCellDef> Email</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.email}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="amount">
+            <th mat-header-cell *matHeaderCellDef> Amount</th>
+            <td mat-cell *matCellDef="let trader"> {{trader.amount}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="actions">
+            <th mat-header-cell *matHeaderCellDef> Actions</th>
+            <td mat-cell *matCellDef="let trader; let i = index">
+                <button mat-button color="warn" (click)="deleteTrader(i)">Delete</button> 
+            </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef ="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>
